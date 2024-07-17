@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hrithiksaharan
-- 👀 I’m interested in learning languages
-- 🌱 I’m currently learning python
+
 - 📫 How to reach me https://www.instagram.com/hrithiksaharan/?hl=en
 
 <!---
